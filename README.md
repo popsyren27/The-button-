@@ -1,0 +1,1 @@
+I have made a basic program on python. This is inspired by the "The Button" game on steam. Basically every time you press the button, the current score increases by one. As the current score increases, the probability of it resetting also increases in 1:1 proportion of the current score. I got tired so I made a code for it.
